@@ -1,3 +1,8 @@
+
+Divyanshu Singh
+Linkedin Profile :- https://www.linkedin.com/in/divyanshusingh2404/
+Gmail :- divyanshusingh01010@gmail.com
+
 🧠 Reddit User Persona Generator
 Generate insightful and structured persona profiles of Reddit users based on their public activity (posts, comments, and interactions). Useful for social media analysis, community research, marketing insights, or user behavior studies.
 
