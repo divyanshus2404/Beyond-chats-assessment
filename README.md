@@ -13,6 +13,7 @@ Generate insightful and structured persona profiles of Reddit users based on the
 🔐 Works only with publicly available data (no authentication required)
 
 🧩 Example Persona Output
+
 yaml
 
 Username: u/example_user
