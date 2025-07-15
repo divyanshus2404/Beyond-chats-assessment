@@ -76,3 +76,6 @@ Profiles are approximations based on language patterns.
 📄 License
 MIT License# Beyond-chats-assessment
 
+<img width="256" height="317" alt="Hungry Move " src="https://github.com/user-attachments/assets/a855ba3f-dac3-4479-833f-fe1b389956cb" />
+
+<img width="254" height="377" alt="KOJIED" src="https://github.com/user-attachments/assets/71fc0e6d-b47d-4124-aa31-1f8aedb76fd9" />
